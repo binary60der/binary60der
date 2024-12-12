@@ -15,7 +15,7 @@
 </div>
 
 ### :man_technologist: About Me :
-- :telescope: I'm a second year undergraduate at R V College of Engineering.
+- :telescope: I'm a final year undergraduate at R V College of Engineering.
 
 - :seedling: Exploring Data Science, Machine Learning and Software Development
 
