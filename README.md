@@ -14,12 +14,14 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-### :man_technologist: About Me :
-- :telescope: I'm a final year undergraduate at R V College of Engineering.
+### 👋 Hey, I'm Pranshu Pandey
 
-- :seedling: Exploring Data Science, Machine Learning and Software Development
+#### 🚀 Backend Software Engineer | API Architect | Pythonista
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and LeetCode, read articles and explore future.
+- 🖥️ Building robust systems with **FastAPI**, **Django**, and **PostgreSQL**
+- ⚡ Automating data pipelines, optimizing database performance, and scaling cloud applications
+- 🎮 Esports & Gaming Enthusiast | 📰 Dev Documentation Geek | 📈 Machine Learning Explorer
+- 🌍 Collaborating on open source projects & learning cutting-edge backend techs
 
 
 ### :hammer_and_wrench: Languages and Tools :
